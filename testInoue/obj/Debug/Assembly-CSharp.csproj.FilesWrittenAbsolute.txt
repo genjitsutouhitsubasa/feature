@@ -1,0 +1,17 @@
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/inouemakoto/feature02/testInoue/obj/Debug/Assembly-CSharp.dll
+/Users/inouemakoto/feature02/testInoue/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/UnityEngine.dll
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/UnityEditor.dll
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/Mono.Cecil.dll
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/Unity.DataContract.dll
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/inouemakoto/feature02/testInoue/Temp/bin/Debug/Mono.Cecil.Mdb.dll
